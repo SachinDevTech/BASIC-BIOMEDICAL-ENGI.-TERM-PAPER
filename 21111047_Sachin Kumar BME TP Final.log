@@ -1,0 +1,181 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12) (preloaded format=pdflatex 2022.1.24)  7 APR 2022 22:30
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**"./21111047_Sachin Kumar BME TP Final.tex"
+(21111047_Sachin Kumar BME TP Final.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2021-11-22> (C:\Desktop\tex/latex/base\article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(C:\Desktop\tex/latex/base\size10.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count183
+\c@section=\count184
+\c@subsection=\count185
+\c@subsubsection=\count186
+\c@paragraph=\count187
+\c@subparagraph=\count188
+\c@figure=\count189
+\c@table=\count190
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Desktop\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Desktop\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(C:\Desktop\tex/latex/graphics\graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Desktop\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Desktop\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Desktop\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+(C:\Desktop\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2021-10-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count191
+\l__pdf_internal_box=\box50
+)
+
+LaTeX Warning: Unused global option(s):
+    [12pts].
+
+No file "21111047_Sachin Kumar BME TP Final".aux.
+\openout1 = `"21111047_Sachin Kumar BME TP Final.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+(C:\Desktop\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count192
+\scratchdimen=\dimen141
+\scratchbox=\box51
+\nofMPsegments=\count193
+\nofMParguments=\count194
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count195
+\MPscratchDim=\dimen142
+\MPnumerator=\count196
+\makeMPintoPDFobject=\count197
+\everyMPtoPDFconversion=\toks18
+) (C:\Desktop\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Desktop\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 10.
+<Images//nit.jpg, id=1, 299.1175pt x 335.2525pt>
+File: Images//nit.jpg Graphic file (type jpg)
+<use Images//nit.jpg>
+Package pdftex.def Info: Images//nit.jpg  used on input line 14.
+(pdftex.def)             Requested size: 206.39128pt x 231.32446pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 18.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 18.
+
+Overfull \hbox (96.31702pt too wide) in paragraph at lines 18--20
+ []$ 
+ []
+
+[1
+
+{C:/Users/akmr3/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./Images//ni
+t.jpg>]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 27.
+<Images//cvd.jpg, id=12, 189.20688pt x 446.16687pt>
+File: Images//cvd.jpg Graphic file (type jpg)
+<use Images//cvd.jpg>
+Package pdftex.def Info: Images//cvd.jpg  used on input line 49.
+(pdftex.def)             Requested size: 132.4439pt x 312.31468pt.
+ [2
+
+] [3 <./Images//cvd.jpg>] [4]
+<Images//angio.jpg, id=23, 395.22656pt x 261.22594pt>
+File: Images//angio.jpg Graphic file (type jpg)
+<use Images//angio.jpg>
+Package pdftex.def Info: Images//angio.jpg  used on input line 92.
+(pdftex.def)             Requested size: 272.7066pt x 180.24608pt.
+<Images//mca.jpg, id=24, 1407.0969pt x 966.9726pt>
+File: Images//mca.jpg Graphic file (type jpg)
+<use Images//mca.jpg>
+Package pdftex.def Info: Images//mca.jpg  used on input line 110.
+(pdftex.def)             Requested size: 267.35118pt x 183.7267pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[5 <./Images//angio.jpg>] [6 <./Images//mca.jpg>]
+<Images//cardia.png, id=31, 1714.405pt x 1325.95375pt>
+File: Images//cardia.png Graphic file (type png)
+<use Images//cardia.png>
+Package pdftex.def Info: Images//cardia.png  used on input line 129.
+(pdftex.def)             Requested size: 257.14966pt x 198.88448pt.
+ [7 <./Images//cardia.png (PNG copy)>]
+<Images//refer.jpg, id=36, 247.92625pt x 172.14313pt>
+File: Images//refer.jpg Graphic file (type jpg)
+<use Images//refer.jpg>
+Package pdftex.def Info: Images//refer.jpg  used on input line 149.
+(pdftex.def)             Requested size: 371.88846pt x 258.21402pt.
+
+Overfull \hbox (26.88846pt too wide) in paragraph at lines 149--150
+ [][] 
+ []
+
+[8 <./Images//refer.jpg>] (21111047_Sachin Kumar BME TP Final.aux) ) 
+Here is how much of TeX's memory you used:
+ 1339 strings out of 478659
+ 21486 string characters out of 2861934
+ 322541 words of memory out of 3000000
+ 19474 multiletter control sequences out of 15000+600000
+ 408944 words of font info for 45 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 55i,9n,62p,1529b,311s stack positions out of 5000i,500n,10000p,200000b,80000s
+ <C:\Users\
+akmr3\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk><C:/D
+esktop/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Desktop/fonts/type1/public
+/amsfonts/cm/cmbx12.pfb><C:/Desktop/fonts/type1/public/amsfonts/cm/cmr10.pfb><C
+:/Desktop/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+Output written on "21111047_Sachin Kumar BME TP Final.pdf" (8 pages, 1098253 by
+tes).
+PDF statistics:
+ 62 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
+
